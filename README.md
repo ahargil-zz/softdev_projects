@@ -19,6 +19,8 @@ Description
   
   https://github.com/AdamDeHovitz/J-A-M-A.git
 
+
+
 Blogging Engine (SQL)
 
 Deanna Taylor, Maria Vasilkin, Thomas Hebowitz
@@ -29,10 +31,16 @@ Description
 
   https://github.com/mariavasilkin/Blog-Project.git
   
+
+
 API Project
  
 
+------------------------------------------------------------------------------------------------------
+
 Mini Projects
+
+
 
 First Jinja2/Flask Website
 
@@ -44,6 +52,8 @@ Description
 
   6/intro-proj1/Sunnam_Anya
   
+
+
 RegExp
 
 Maria Vasilkin, Corrin
@@ -53,6 +63,8 @@ Description
   Regexp code to find full names (first and last name) in a piece of text
 
   6/regexp/Maria-Anya-Corrin
+
+
 
 MongoDB Login
 
