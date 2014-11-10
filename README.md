@@ -8,7 +8,7 @@ Fall Semester
 Period 6
 
 Main Projects
-
+====================================================================================
 Language Interpreter/Data Scraping Webiste
 
 Maria Vasilkin, Adam DeHovitz, Justin Kim
@@ -19,7 +19,7 @@ Description
   
   https://github.com/AdamDeHovitz/J-A-M-A.git
 
-
+-----------------------------------------------------------------------------------
 
 Blogging Engine (SQL)
 
@@ -31,7 +31,7 @@ Description
 
   https://github.com/mariavasilkin/Blog-Project.git
   
-
+-----------------------------------------------------------------------------------
 
 API Project
  
@@ -40,7 +40,7 @@ API Project
 
 Mini Projects
 
-
+=====================================================================================
 
 First Jinja2/Flask Website
 
@@ -52,7 +52,7 @@ Description
 
   6/intro-proj1/Sunnam_Anya
   
-
+------------------------------------------------------------------------------------
 
 RegExp
 
@@ -64,7 +64,7 @@ Description
 
   6/regexp/Maria-Anya-Corrin
 
-
+----------------------------------------------------------------------------------
 
 MongoDB Login
 
