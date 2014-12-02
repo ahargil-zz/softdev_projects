@@ -35,6 +35,13 @@ Description
 
 API Project
  
+Aaron Mortenson
+
+Description
+
+  We created an HTML, CSS, and Python based website that tries to predict foods you will like using the Yummly API and input from the user.
+  
+  https://github.com/trunkatedpig/APIProject.git
 
 ------------------------------------------------------------------------------------------------------
 
@@ -63,7 +70,7 @@ Description
 
   6/regexp/Maria-Anya-Corrin
 
-----------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 
 MongoDB Login
 
@@ -74,3 +81,15 @@ Description
   Python, HTML, CSS, Flask, MongoDB and sessions to control signing up for accounts, logging in, and viewing private and public pages. 
 
   https://github.com/afischer/SoftDev_Proj03_MongoLogin.git
+
+-------------------------------------------------------------------------------------
+
+JavaScript To Do List
+
+Me
+
+Description
+
+  Very simple JavaScript, HTML, and CSS webpage that acts as a to do list.
+  
+  6/todo/anya_hargil
