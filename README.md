@@ -9,6 +9,20 @@ Period 6
 
 Main Projects
 ====================================================================================
+
+First Semester Final Project
+
+Maria Vasilkin, Sunnam Quispe, Brian Sapozhnikov
+
+Description
+
+  "Godega" is an app to allow New Yorkers to find, add, and review lesser-know restaurants
+and shops in the NYC area.
+
+  https://github.com/bsapozhnikov/Holes-In-The-Wall.git
+  
+------------------------------------------------------------------------------------
+
 Language Interpreter/Data Scraping Webiste
 
 Maria Vasilkin, Adam DeHovitz, Justin Kim
@@ -93,3 +107,15 @@ Description
   Very simple JavaScript, HTML, and CSS webpage that acts as a to do list.
   
   6/todo/anya_hargil
+
+------------------------------------------------------------------------------------
+
+Find the Invisible 2048
+
+Adam DeHovitz
+
+Description
+
+  A find the invisible cow type game with a 2048 theme using html and javascript.
+  
+  6/invisible-cow/adam_anya
